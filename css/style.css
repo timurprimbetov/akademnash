@@ -1,6 +1,9 @@
 .site-header{
   background-color: #fff;
-}
+  }
+  .sitenav-list{
+    list-style: none;
+  }
 .sitenav-link{
   font-size: 15px;
   font-weight: 500;
@@ -9,6 +12,7 @@
   text-transform: uppercase;
   text-decoration: none;
   color: #000;
+
 }
 .button-link{
   font-size: 15px;
@@ -40,9 +44,51 @@
   letter-spacing: 0.5px;
 }
 .features-heading{
-  background-color: silver;
   width: 440px;
   font-size: 70px;
   font-weight: bold;
   letter-spacing: 1px;
 }
+.icon{
+  background-color: #ff770056;
+  width: 100px;
+  height: 100px;
+}
+.features-title{
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  line-height: 1.2;
+}
+.features-text{
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+.features{
+  width: 350px;
+
+}
+.aksiya{
+  background-color: #252420;
+  color: #fff;
+}
+.aksiya-content{
+  width: 440px;
+}
+.aksiya-heading{
+  font-size: 24px;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+}
+.site-footer ul{
+  list-style: none;
+}
+.footer-links{
+  width: 225px;
+}
+.footer-links a{
+  font-size: 16px;
+  line-height: 19px;
+  color: #252420;
+  text-decoration: none;
+  }
